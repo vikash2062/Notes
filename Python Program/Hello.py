@@ -1,0 +1,6 @@
+print("Hello World")
+print("Vikash Kumar Maurya")
+print(20+5)
+print(20/5)
+print(20-5)
+print(20*5)

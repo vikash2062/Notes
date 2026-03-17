@@ -1,0 +1,8 @@
+Speed: Hides the speed of the video
+Timestamps: Starts the video at a specified timestamp
+Mute: Starts the video muted
+Autoplay: Immediately plays the embedded video
+Speed: Hides the speed of the video
+Timestamps: Starts the video at a specified timestamp
+Mute: Starts the video muted
+Autoplay: Immediately plays the embedded video
